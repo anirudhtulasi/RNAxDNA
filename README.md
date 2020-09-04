@@ -35,8 +35,8 @@ git clone https://github.com/anirudhtulasi/RNAxDNA
 
 
 ## Contributing
-Please take a look at our [contributing](https://github.com/anirudhtulasi/RNAxDNA/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
+Please take a look at our [contributing](https://github.com/anirudhtulasi/RNAxDNA/blob/master/Contributing.md) guidelines if you're interested in helping!
 #### Working on 
 - Visualisation of the DNA/RNA
-- 
-- 
+- CLI Interface 
+- GUI Interface
