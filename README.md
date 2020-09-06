@@ -29,7 +29,6 @@ git clone https://github.com/anirudhtulasi/RNAxDNA
 
 ## Screenshots
 <p align="center"><img width=95% src="https://github.com/anirudhtulasi/RNAxDNA/blob/master/01.png"></p>
-<p align="center"><img width=95% src="https://github.com/anirudhtulasi/RNAxDNA/blob/master/03.png"></p>
 <p align="center"><img width=95% src="https://github.com/anirudhtulasi/RNAxDNA/blob/master/04.png"></p>
 <p align="center"><img width=95% src="https://github.com/anirudhtulasi/RNAxDNA/blob/master/05.png"></p>
 
